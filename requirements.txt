@@ -6,3 +6,4 @@ tone_mapping
 color_correction
 demosaic_and_mosaic
 white_balance
+colour-demosaicing
